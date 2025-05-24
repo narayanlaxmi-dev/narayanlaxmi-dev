@@ -70,7 +70,7 @@ update proper format give some change if needed [![MasterHead](https://techbulli
 
 Feel free to reach out via:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [narayanlaxmipatil@example.com](mailto:narayanlaxmipatil@email.com)
 - **LinkedIn**: [Narayan Patil](https://linkedin.com/in/narayan-patil)
 - **Twitter**: [@shiv_npatil](https://twitter.com/shiv_npatil)
 
@@ -78,8 +78,8 @@ Feel free to reach out via:
 
 ## 🎨 Hobbies
 
-- Hiking and nature photography
-- Playing the guitar
+- Hiking and Music
+- Sport Person / GYM
 - Contributing to open-source projects
 
 ---
