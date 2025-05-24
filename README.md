@@ -38,6 +38,7 @@ update proper format give some change if needed [![MasterHead](https://techbulli
 # The **NARAYAN LAXMI PATIL** </br>
 ##"    Software Tester - Automation Testing | Web Development| Scrum Project | Selenium - Web-Driver | BDD Cucumber | TestNG | Katalon Recorder | POM | JENKINS | JIRA | Maven | Selenium Grid | Git- code versioning tool | API | CyberSecurity - Linux Kernel Development | Network Security | DDOS Mitigation | Phishing Defense | Information Security | Penetration Testing.    "
 
+---
 
 ## 🧰 Dev Tools & Technologies
 
@@ -57,12 +58,38 @@ update proper format give some change if needed [![MasterHead](https://techbulli
 </p>
 
 ---
-  </br>  </br> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="100" height="40"/> </a> </br>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="40"/> </a> </br>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="40"/> </a> </br>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height="40"/> </a> </br>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="40"/> </a>  </br>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="40"/> </a> </br>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="100" height="40"/> </a> </br>
- </p>
+
+## 📝 Blog Posts
+
+- [How to Optimize Your React Applications](#)
+- [JavaScript Tips and Tricks](#)
+
+---
+
+## 📫 Get in Touch
+
+Feel free to reach out via:
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Narayan Patil](https://linkedin.com/in/narayan-patil)
+- **Twitter**: [@shiv_npatil](https://twitter.com/shiv_npatil)
+
+---
+
+## 🎨 Hobbies
+
+- Hiking and nature photography
+- Playing the guitar
+- Contributing to open-source projects
+
+---
+
+## 🔄 Last Updated
+
+This README was last updated on May 24, 2025.
+
+---
+
+## 📝 License
+
+This README is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
