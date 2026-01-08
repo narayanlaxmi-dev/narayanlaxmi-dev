@@ -79,7 +79,7 @@ Automation Testing • Web Development • Cyber Security
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narayanlaxmi-dev&show_icons=true&theme=yeblu" />
+  <img src="https://wallpapers.com/images/high/luffy-zoro-sjvh8fntqbx28sva.webp" />
 </p>
 
 <p align="center">
@@ -88,6 +88,9 @@ Automation Testing • Web Development • Cyber Security
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanlaxmi-dev&layout=compact&theme=yeblu" />
+</p>
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/75/45/1e/75451e72166eaa53461aa27dca30a8d0.jpg" />
 </p>
 
 ---
@@ -124,19 +127,6 @@ Feel free to reach out via:
 - Hiking and Music
 - Sport Person / GYM
 - Contributing to open-source projects
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/narayanlaxmi-dev/narayanlaxmi-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/narayanlaxmi-dev/narayanlaxmi-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/narayanlaxmi-dev/narayanlaxmi-dev/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
