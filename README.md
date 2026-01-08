@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2106&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://narayanlaxmi-dev.github.io/Personal-Portfolio/)
+[![MasterHead](./Gemini_office.png)](https://narayanlaxmi-dev.github.io/Personal-Portfolio/)
 
 <h1 align="center">Hi 👋, I'm Narayan Laxmi Patil</h1>
 <h3 align="center">
@@ -6,7 +6,7 @@ Full Stack Developer @ MKCL (Maharashtra Knowledge Corporation Limited) <br/>
 Automation Testing • Web Development • Cyber Security
 </h3>
 
-<img align="right" alt="Coding" width="350" src="https://github.com/narayanlaxmi-dev/narayanlaxmi-dev/assets/151113796/ecf9f3f0-e27e-4abf-954c-cea163545789">
+<img align="right" alt="Coding" width="350" src="./narayan1.jpg">
 
 ---
 
