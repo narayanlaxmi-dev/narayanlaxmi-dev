@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch:  # allows manual run
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # daily run at midnight
+    - cron: "0 0 * * *"
 
 jobs:
   generate:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk@f8a5e9a0c7d3b2b9f5d4b3f23b5f52c8a1e7f4a1
         with:
           github_user_name: narayanlaxmi-dev
           outputs: |
@@ -19,7 +19,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@2b7a9d4f5b1c6e7f8a3d2b4c5f6a1e0b2d3c4f5a
         with:
           target_branch: output
           build_dir: dist
