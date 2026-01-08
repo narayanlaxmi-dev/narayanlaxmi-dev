@@ -1,61 +1,104 @@
-[![MasterHead](https://techbullion.com/wp-content/uploads/2023/03/Software-Development.webp)](https://narayanlaxmi-dev.github.io/Personal-Portfolio/)
-<h1 align="center">Hi 👋, I'm NARAYAN LAXMI PATIL</h1>
-<h3 align="center">I'm a 22-year-old creative with a passion for Technology, Manual-Automation Test and Penetration tester. My specialties lie in Automation Selenium Web-Driver Framework Testing, Security Testing, Linux Kernel Development, SE Grid, and Web Development. I'm driven by my desire to craft visually pleasing yet functional experiences for users, combining technical know-how with artistic flair about the testing world, lastly to become -HW</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/narayanlaxmi-dev/narayanlaxmi-dev/assets/151113796/ecf9f3f0-e27e-4abf-954c-cea163545789">
-<meta name="google-site-verification" content="80zNqeHdTEVKYHQogFtHz0LJ4nnQdgfUD18DOdBJmlo" />
+[![MasterHead](https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2106&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://narayanlaxmi-dev.github.io/Personal-Portfolio/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narayanlaxmi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="narayanlaxmi-dev" /> </p>
+<h1 align="center">Hi 👋, I'm Narayan Laxmi Patil</h1>
+<h3 align="center">
+Full Stack Developer @ MKCL (Maharashtra Knowledge Corporation Limited) <br/>
+Automation Testing • Web Development • Cyber Security
+</h3>
 
-<p align="left"> <a href="https://twitter.com/shiv_npatil" target="blank"><img src="https://img.shields.io/twitter/follow/shiv_npatil?logo=twitter&style=for-the-badge" alt="shiv_npatil" /></a> </p>
+<img align="right" alt="Coding" width="350" src="https://github.com/narayanlaxmi-dev/narayanlaxmi-dev/assets/151113796/ecf9f3f0-e27e-4abf-954c-cea163545789">
 
-- 🔭 I’m currently working on [Automation - SE](none)
+---
 
-- 🌱 I’m currently learning **Automation - SELENIUM, react**
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://narayanlaxmi-dev.github.io/Personal-Portfolio/](https://narayanlaxmi-dev.github.io/Personal-Portfolio/)
-
-- 💬 Ask me about **Selenium, Penetrate Security, Defence Firewall & so on**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1inAxB9wMlCaepCOluIAYy6yQFfQeiPo2/view](https://drive.google.com/file/d/1inAxB9wMlCaepCOluIAYy6yQFfQeiPo2/view)
-
-- ⚡ Fun fact **love to Info Collect**
-
-<h3 align="left">Social media:</h3>
-<p align="left">
--  1 💬 Twitter :  <a href="https://twitter.com/shiv_npatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiv_npatil" height="40" width="120" /></a> </br>
--  2 💬 LinkedIn :   <a href="https://linkedin.com/in/narayan patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narayan patil" height="40" width="120" /></a> </br>
--  3 💬 Facebook :  <a href="https://fb.com/n patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n patil" height="40" width="120"" /></a> </br>
--  4 💬 Instagram :  <a href="https://instagram.com/narayan_official01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narayan_official01" height="40" width="150" /></a>
-</p>
-
-<img align="right" alt="Coding" width="300" src="https://github.com/narayanlaxmi-dev/narayanlaxmi-dev/assets/151113796/fb0a1c98-8680-4ccc-a18e-e13d74e2829e">
-
- ![](https://github-readme-stats.vercel.app/api?username=narayanlaxmi-dev&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=narayanlaxmi-dev&theme=yeblu&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=narayanlaxmi-dev&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img align="right" alt="Coding" width="300" src="https://github.com/narayanlaxmi-dev/narayanlaxmi-dev/assets/151113796/0972c5e1-6f5d-48c6-a0b6-f7c07e54fcd5">
-
-# The **NARAYAN LAXMI PATIL** </br>
-##"    Software Tester - Automation Testing | Web Development| Scrum Project | Selenium - Web-Driver | BDD Cucumber | TestNG | Katalon Recorder | POM | JENKINS | JIRA | Maven | Selenium Grid | Git- code versioning tool | API | CyberSecurity - Linux Kernel Development | Network Security | DDOS Mitigation | Phishing Defense | Information Security | Penetration Testing.    "
+- 💼 **Full Stack Developer** at **MKCL – Maharashtra Knowledge Corporation Limited**
+- 🔭 Working on **Enterprise Web Applications & Automation Systems**
+- 🌱 Currently learning **AI/ML, Golang (Gin Framework), Advanced Selenium**
+- 👨‍💻 Portfolio: **[Visit Website](https://narayanlaxmi-dev.github.io/Personal-Portfolio/)**
+- 💬 Ask me about **Selenium, Automation, Web Dev, Cyber Security**
+- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1wFSvxwAreJbeX-74Hp8q-XT_OGeyauSI/view)**
+- ⚡ Fun fact: **I love collecting technical & security knowledge**
 
 ---
 
 ## 🧰 Dev Tools & Technologies
 
+### 💻 Programming & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="Jenkins">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="40" alt="Adobe Illustrator">
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" height="40" alt="Arduino">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
 </p>
+
+### 🌐 Web & Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" height="40"/>
+</p>
+
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+</p>
+
+### 🧪 Automation & DevOps
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/>
+</p>
+
+---
+
+## 🌐 Social Media
+
+<p align="left">
+<a href="https://twitter.com/shiv_npatil" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40"/>
+</a>
+<a href="https://linkedin.com/in/narayan-patil" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+</a>
+<a href="https://instagram.com/narayanlaxmipatil" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
+</a>
+<a href="https://fb.com/n patil" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narayanlaxmi-dev&show_icons=true&theme=yeblu" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayanlaxmi-dev&theme=yeblu" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanlaxmi-dev&layout=compact&theme=yeblu" />
+</p>
+
+---
+
+## 🎯 Interests
+
+- Automation Testing & Framework Design
+- Full Stack Web Development
+- Cyber Security & Penetration Testing
+- AI & Machine Learning
+- Open Source Contribution
 
 ---
 
@@ -93,3 +136,4 @@ This README was last updated on May 24, 2025.
 ## 📝 License
 
 This README is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+⭐ **If you like my work, consider starring my repositories!**
